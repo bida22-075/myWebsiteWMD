@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-05-26T11:26:31.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="v30ib4Lson6QszFN3cuk" version="21.3.4" type="device">
+  <diagram name="Page-1" id="9NmkZ2MwQMLWGfoxwUbP">
+    <mxGraphModel dx="1690" dy="1023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FN98-E5jj3SNUUN72ckx-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="14" width="1204" height="1204" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-15" value="&#xa;&lt;h2 style=&quot;scroll-behavior: smooth; color: rgb(255, 255, 255); line-height: 0.9em; font-weight: 800; text-transform: uppercase; margin: 50px 0px 30px; font-size: 2.1875rem; text-align: center; width: 729.6px; font-family: Montserrat, Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;WB SERVICES&lt;/h2&gt;&lt;p style=&quot;scroll-behavior: smooth; font-family: Montserrat, Arial, Helvetica, sans-serif; text-align: center; color: rgb(255, 255, 255); height: 145px; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;scroll-behavior: smooth;&quot;&gt;Warner Bros. Studios&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;is one of the most memorable motion picture and television production facilities in the world. We offer many services to the community - From finding a job to renting a stage on the historic Warner Bros. lot.&lt;/p&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-189" y="326" width="840.5" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-2" value="" style="line;strokeWidth=2;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="-115" width="1204" height="439" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-3" value="" style="line;strokeWidth=2;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="198" width="1204" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-4" value="HOME" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="38" width="104" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-5" value="MOVIES" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="21" y="38.5" width="91" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-6" value="EXPERIENCE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="125" y="38" width="119" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-7" value="THEATRE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="259" y="38" width="91" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-8" value="SHOP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="365" y="38" width="69" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-9" value="GAMES AND APPS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="449" y="38.5" width="154" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-12" value="type to search" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="666" y="31" width="155" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-13" value="WELCOME TO WARNERBROS!!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="123" width="512" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-16" value="ABOUT US" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="255" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-17" value="&#xa;&lt;h2 style=&quot;scroll-behavior: smooth; color: rgb(255, 255, 255); line-height: 0.9em; font-weight: 800; text-transform: uppercase; margin: 50px 0px 30px; font-size: 2.1875rem; text-align: center; width: 729.6px; font-family: Montserrat, Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;CORPORATE RESPONSIBILITY&lt;/h2&gt;&lt;p style=&quot;scroll-behavior: smooth; font-family: Montserrat, Arial, Helvetica, sans-serif; text-align: center; color: rgb(255, 255, 255); height: 135px; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;At&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;scroll-behavior: smooth;&quot;&gt;WarnerMedia&lt;/strong&gt;, equity, diversity, inclusion, and corporate social, responsibility are moral and business imperatives. We see advocacy and inclusion as a key part to our success, and our approach to these critical issues are rooted in how we address our workforce, programs, content, suppliers, and community.&lt;/p&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-239" y="588" width="878" height="397" as="geometry" />
+        </mxCell>
+        <mxCell id="FN98-E5jj3SNUUN72ckx-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="1106" width="1206" height="112" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
